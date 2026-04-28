@@ -1,0 +1,12 @@
+# File sensitif
+config/database.php
+
+# Database
+*.sql
+
+# Zip
+*.zip
+
+# Sistem
+.DS_Store
+Thumbs.db
